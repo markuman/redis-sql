@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/redis-sql
+bye bye microsoft. please visit https://git.osuv.de/m/redis-sql
